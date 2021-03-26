@@ -1,1 +1,1 @@
-install.packages(c("corrplot", "dplyr", "ggplot2", "tidyr", "lubridate", "stringr", "scales"))
+install.packages(c("dplyr", "ggplot2", "tidyr", "scales"))
