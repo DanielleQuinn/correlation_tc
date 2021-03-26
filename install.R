@@ -1,1 +1,1 @@
-install.packages(c("tidyverse", "corrplot"))
+install.packages("corrplot")
