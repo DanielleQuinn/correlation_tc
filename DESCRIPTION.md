@@ -12,4 +12,4 @@ Imports:
     stringr,
     lubridate,
     scales,
-    gtrendR
+    gtrendsR
